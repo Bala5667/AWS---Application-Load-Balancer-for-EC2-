@@ -1,6 +1,6 @@
 # AWS---Application-Load-Balancer-for-EC2
 
-By achieving this, the project aims to:
+Primary Objectives:
 
 Deploy two EC2 instances running Apache web servers.
 
@@ -13,6 +13,8 @@ Set up an Application Load Balancer to distribute traffic evenly between the two
 Verify functionality by accessing the ALB DNS and confirming traffic redirection.
 
 This solution enhances reliability and performance while ensuring seamless traffic management across multiple instances.
+
+Steps to achieve the Objectives:
 
 1. Created EC2 Instances
 I launched two Amazon Linux EC2 instances:
