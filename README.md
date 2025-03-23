@@ -1,4 +1,18 @@
-# AWS---Application-Load-Balancer-for-EC2-
+# AWS---Application-Load-Balancer-for-EC2
+
+By achieving this, the project aims to:
+
+Deploy two EC2 instances running Apache web servers.
+
+Host separate web pages for Facebook and Instagram.
+
+Configure Target Groups to monitor the health of instances.
+
+Set up an Application Load Balancer to distribute traffic evenly between the two instances.
+
+Verify functionality by accessing the ALB DNS and confirming traffic redirection.
+
+This solution enhances reliability and performance while ensuring seamless traffic management across multiple instances.
 
 1. Created EC2 Instances
 I launched two Amazon Linux EC2 instances:
