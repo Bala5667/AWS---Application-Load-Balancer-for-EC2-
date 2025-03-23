@@ -3,13 +3,9 @@
 Primary Objectives:
 
 Deploy two EC2 instances running Apache web servers.
-
 Host separate web pages for Facebook and Instagram.
-
 Configure Target Groups to monitor the health of instances.
-
 Set up an Application Load Balancer to distribute traffic evenly between the two instances.
-
 Verify functionality by accessing the ALB DNS and confirming traffic redirection.
 
 This solution enhances reliability and performance while ensuring seamless traffic management across multiple instances.
